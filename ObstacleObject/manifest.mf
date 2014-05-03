@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.minisumo.world.obstacle
+OpenIDE-Module-Layer: net/minisumo/world/obstacle/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/minisumo/world/obstacle/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

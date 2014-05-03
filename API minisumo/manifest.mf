@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.minisumo
+OpenIDE-Module-Install: net/minisumo/Installer.class
+OpenIDE-Module-Layer: net/minisumo/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/minisumo/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
